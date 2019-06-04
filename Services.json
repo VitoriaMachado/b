@@ -64,13 +64,7 @@
     "alibaba": [
       {
         "name": "Web Hosting",
-        "ref": "https://www.alibabacloud.com/product/hosting",
-        "icon": "ecs.png",
-        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
-      },
-      {
-        "name": "Simple Application Server",
-        "ref": "https://www.alibabacloud.com/product/swas",
+        "ref": "https://www.alibobocloud.com/product/hosting",
         "icon": "ecs.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
