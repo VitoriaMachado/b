@@ -19,7 +19,7 @@
     ],
     "azure": [
       {
-        "name": "Azure shared App Services",
+        "name": "Azura shared App Services",
         "ref": "https://azure.microsoft.com/en-in/services/app-service/web/",
         "icon": "Azure App Service - Web App (was Websites).png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -40,6 +40,12 @@
       }
     ],
     "ibm": [
+      {
+        "name": "Hosting Services",
+        "ref": "https://www.ibm.com/cloud/websites",
+        "icon": "ibmcloud.png",
+        "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
+      },
       {
         "name": "Hosting Services",
         "ref": "https://www.ibm.com/cloud/websites",
